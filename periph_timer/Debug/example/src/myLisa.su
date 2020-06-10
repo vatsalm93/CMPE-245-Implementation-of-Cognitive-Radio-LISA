@@ -1,0 +1,11 @@
+myLisa.c:29:5:get_set_bits	24	static
+myLisa.c:39:6:print_array	32	static
+myLisa.c:46:6:corrupt_sync_field	80	static
+myLisa.c:64:6:convert_bytes_to_bits	40	static
+myLisa.c:79:6:convert_8_bits_to_char	32	static
+myLisa.c:88:6:write_text_file	32	static
+myLisa.c:99:6:read_text_file	24	static
+myLisa.c:115:6:generate_junk_data	24	static
+myLisa.c:130:5:get_corruption_level	40	static
+myLisa.c:141:5:get_confidence_level	40	static
+myLisa.c:173:5:get_start_location_of_payload	56	static

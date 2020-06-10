@@ -1,0 +1,4 @@
+main.c:36:13:delay_ms	24	static
+main.c:47:13:delay	16	static
+main.c:64:5:main	24	static
+main.c:175:6:check_ack	8	static
